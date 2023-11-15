@@ -1,6 +1,6 @@
 # Tips 1
 <details>
-<summary>next</summary>
+<summary>本文</summary>
 
 長くなるなら折りたたみ
 
