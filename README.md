@@ -27,4 +27,6 @@ https://www.youtube.com/live/0D-J_Lbxeeg?si=ZtCf4NX9VhojGIfX
 [Recreating water currents with #threejs](https://www.youtube.com/live/0D-J_Lbxeeg?si=ZtCf4NX9VhojGIfX)
 
 サムネ付き<br />
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/0D-J_Lbxeeg/0.jpg)](https://www.youtube.com/live/0D-J_Lbxeeg?si=ZtCf4NX9VhojGIfX)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/0D-J_Lbxeeg/mqdefault.jpg)](https://www.youtube.com/live/0D-J_Lbxeeg?si=ZtCf4NX9VhojGIfX)
+
+[【JS】YouTubeの動画IDからなるべく大きい解像度のサムネイルを取得する方法（API使わずに）](https://zenn.dev/attt/articles/get-yt-thumbnail)
