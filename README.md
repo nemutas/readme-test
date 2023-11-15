@@ -19,4 +19,12 @@ color = mix(color * 0.92, color, 1.0 - line);
 
 # Tips 2
 長くならないなら、べた書き<br />
+
+リンク<br />
 https://www.youtube.com/live/0D-J_Lbxeeg?si=ZtCf4NX9VhojGIfX
+
+テキスト付<br />
+[Recreating water currents with #threejs](https://www.youtube.com/live/0D-J_Lbxeeg?si=ZtCf4NX9VhojGIfX)
+
+サムネ付き<br />
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/0D-J_Lbxeeg/0.jpg)](https://www.youtube.com/live/0D-J_Lbxeeg?si=ZtCf4NX9VhojGIfX)
